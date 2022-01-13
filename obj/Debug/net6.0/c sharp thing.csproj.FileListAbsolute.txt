@@ -1,0 +1,15 @@
+F:\Desktop\c sharp thing\bin\Debug\net6.0\c sharp thing.exe
+F:\Desktop\c sharp thing\bin\Debug\net6.0\c sharp thing.deps.json
+F:\Desktop\c sharp thing\bin\Debug\net6.0\c sharp thing.runtimeconfig.json
+F:\Desktop\c sharp thing\bin\Debug\net6.0\c sharp thing.dll
+F:\Desktop\c sharp thing\bin\Debug\net6.0\ref\c sharp thing.dll
+F:\Desktop\c sharp thing\bin\Debug\net6.0\c sharp thing.pdb
+F:\Desktop\c sharp thing\obj\Debug\net6.0\c sharp thing.csproj.AssemblyReference.cache
+F:\Desktop\c sharp thing\obj\Debug\net6.0\c sharp thing.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\c sharp thing\obj\Debug\net6.0\c sharp thing.AssemblyInfoInputs.cache
+F:\Desktop\c sharp thing\obj\Debug\net6.0\c sharp thing.AssemblyInfo.cs
+F:\Desktop\c sharp thing\obj\Debug\net6.0\c sharp thing.csproj.CoreCompileInputs.cache
+F:\Desktop\c sharp thing\obj\Debug\net6.0\c sharp thing.dll
+F:\Desktop\c sharp thing\obj\Debug\net6.0\ref\c sharp thing.dll
+F:\Desktop\c sharp thing\obj\Debug\net6.0\c sharp thing.pdb
+F:\Desktop\c sharp thing\obj\Debug\net6.0\c sharp thing.genruntimeconfig.cache
